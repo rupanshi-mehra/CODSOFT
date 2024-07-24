@@ -2,5 +2,5 @@
 
 ## PROJECT 1
 
-this is my first project <br/>
-helepele
+this is my first project <br/> 
+my project is
