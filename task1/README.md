@@ -21,16 +21,4 @@ Clone the repository or download the code.
    ```bash
    https://github.com/rupanshi-mehra/CODSOFT.git
    cd CODSOFT
-   cd task1
-
-## Example
-
-Welcome to the chatbot! Type 'exit' to end the conversation.
-You: Hi
-Chatbot: Hey there! How can I help you today?
-
-You: What time is it?
-Chatbot: The current time is HH:MM:SS.
-
-You: Bye
-Chatbot: Goodbye! Have a great day!
+   cd task1  
