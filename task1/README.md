@@ -16,3 +16,8 @@ This is a simple rule-based chatbot implemented in Python. It responds to user i
 - Python 3.x installed on your system.
 
 ### Installation
+Clone the repository or download the code.
+   ```bash
+   https://github.com/rupanshi-mehra/CODSOFT.git
+   cd CODSOFT
+   cd task1
