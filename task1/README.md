@@ -4,10 +4,11 @@ This is a simple rule-based chatbot implemented in Python. It responds to user i
 
 ## Features
 
-- Responds to greetings such as "hi", "hello", and "hey".
-- Says goodbye when the user types "bye", "goodbye", or "see you".
-- Provides the current time when asked.
-- Responds to weather-related queries with a placeholder message.
+- **Greeting Responses**: Responds to common greetings like "hi", "hello", and "hey".
+- **Farewell Responses**: Responds to phrases such as "bye", "goodbye", and "see you".
+- **Current Time**: Provides the current time when asked.
+- **Weather Information**: Suggests checking online for weather updates.
+- **Default Response**: Provides a generic response for unrecognized inputs.
 
 ## Getting Started
 
